@@ -1,8 +1,6 @@
 /*
    Տպեք մասիվի ամենափոքրը թիվը
-
- */
-
+*/
 public class ArrayUtil1 {
     public static void main(String[] args) {
         int[] myArray = {40, 10, 5, 20, 50, 6, 8, 80, 99};
