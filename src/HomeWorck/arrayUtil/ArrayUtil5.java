@@ -1,3 +1,5 @@
+package HomeWorck.arrayUtil;
+
 /*
   Տպեք զույգերի քանակը։
  */

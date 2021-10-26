@@ -1,3 +1,5 @@
+package HomeWorck.arrayUtil;
+
 /*
    Տպեք մասիվի ամենափոքրը թիվը
 */

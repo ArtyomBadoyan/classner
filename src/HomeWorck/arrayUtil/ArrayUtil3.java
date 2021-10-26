@@ -1,4 +1,4 @@
-/*
+package HomeWorck.arrayUtil;/*
    Տպեք մասիվի բոլոր զույգ էլեմենտները
  */
 
