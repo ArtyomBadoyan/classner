@@ -95,7 +95,7 @@ public class CharArray {
 
         char[] text = {' ', ' ', 'h', 'e', 'l', 'l', 'o', ' ', 'j', 'a', 'v', 'a', ' ', ' ', ' '};
         int startIndex = 0;
-        int andIndex = text.length - 1;
+        int andIndex = text.length-1;
 
         while (startIndex < andIndex && text[startIndex] == ' ') {
             startIndex++;
